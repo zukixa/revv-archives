@@ -1,0 +1,2148 @@
+http://47.242.68.211:7500
+⚠️ E :  
+ ######### 
+
+http://34.105.122.120:7163
+⚠️ E :  0, message='', url=URL('http://34.105.122.120:7163/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://180.162.116.73:5001
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://180.162.116.73:5001/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.247.60.154:5971
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://35.247.60.154:5971/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://47.99.240.3:8082
+⚠️ E :  
+ ######### 
+
+http://34.168.166.210:8018
+⚠️ E :  Server disconnected
+ ######### 
+
+http://119.23.227.244:55151
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://119.23.227.244:55151/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.33.229:8023
+⚠️ E :  Server disconnected
+ ######### 
+
+http://58.23.56.9:8502
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://58.23.56.9:8502/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://124.156.192.89:3000
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://124.156.192.89:3000/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.247.60.154:7879
+⚠️ E :  Cannot connect to host 35.247.60.154:7879 ssl:default [Connect call failed ('35.247.60.154', 7879)]
+ ######### 
+
+http://47.236.31.18:8000
+⚠️ E :  Cannot connect to host 47.236.31.18:8000 ssl:default [Connect call failed ('47.236.31.18', 8000)]
+ ######### 
+
+http://119.129.239.120:8096
+⚠️ E :  
+ ######### 
+
+http://121.5.55.40:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://121.5.55.40:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://95.164.68.247:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://95.164.68.247:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://152.32.129.70:80
+⚠️ E :  
+ ######### 
+
+http://8.222.166.32:3100
+⚠️ E :  
+ ######### 
+
+http://146.56.180.146:5000
+⚠️ E :  Cannot connect to host 146.56.180.146:5000 ssl:default [Connect call failed ('146.56.180.146', 5000)]
+ ######### 
+
+http://8.219.168.35:3001
+⚠️ E :  
+ ######### 
+
+http://158.101.103.162:9000
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://158.101.103.162:9000/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.134.165.31:3000
+⚠️ E :  'result'
+ ######### 
+
+http://43.131.56.23:443
+⚠️ E :  
+ ######### 
+
+http://47.254.79.127:9000
+⚠️ E :  Cannot connect to host 47.254.79.127:9000 ssl:default [Connect call failed ('47.254.79.127', 9000)]
+ ######### 
+
+http://82.156.152.65:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://82.156.152.65:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://8.210.150.34:8004
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://8.210.150.34:8004/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.24.176:6248
+⚠️ E :  'result'
+ ######### 
+
+http://47.90.219.169:443
+⚠️ E :  Cannot connect to host 47.90.219.169:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '47.90.219.169'. (_ssl.c:1007)")]
+ ######### 
+
+http://43.153.61.47:8000
+⚠️ E :  Cannot connect to host 43.153.61.47:8000 ssl:default [Connect call failed ('43.153.61.47', 8000)]
+ ######### 
+
+http://35.197.103.96:6989
+⚠️ E :  'result'
+ ######### 
+
+http://104.36.84.203:19100
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://104.36.84.203:19100/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://154.40.59.42:4120
+⚠️ E :  Cannot connect to host 154.40.59.42:4120 ssl:default [Connect call failed ('154.40.59.42', 4120)]
+ ######### 
+
+http://129.226.165.91:3002
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://129.226.165.91:3002/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://172.188.24.117:3569
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://172.188.24.117:3569/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://8.219.82.55:3000
+⚠️ E :  'result'
+ ######### 
+
+http://121.5.55.40:7104
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://121.5.55.40:7104/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://222.90.103.81:5001
+⚠️ E :  
+ ######### 
+
+http://49.51.163.72:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://49.51.163.72:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://122.233.166.88:5555
+⚠️ E :  
+ ######### 
+
+http://47.254.24.47:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://47.254.24.47:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.24.176:6498
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://34.127.24.176:6498/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://185.207.250.43:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://185.207.250.43:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://120.237.153.194:8099
+⚠️ E :  
+ ######### 
+
+http://35.247.60.154:6672
+⚠️ E :  'result'
+ ######### 
+
+http://110.80.25.251:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://110.80.25.251:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.203.152.12:7170
+⚠️ E :  Cannot connect to host 35.203.152.12:7170 ssl:default [Connect call failed ('35.203.152.12', 7170)]
+ ######### 
+
+http://121.196.96.122:8081
+⚠️ E :  Cannot connect to host 121.196.96.122:8081 ssl:default [Connect call failed ('121.196.96.122', 8081)]
+ ######### 
+
+http://129.226.165.91:8888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://129.226.165.91:8888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.247.60.154:7469
+⚠️ E :  Cannot connect to host 35.247.60.154:7469 ssl:default [Connect call failed ('35.247.60.154', 7469)]
+ ######### 
+
+http://45.194.17.1:8080
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://45.194.17.1:8080/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.51.25:7473
+⚠️ E :  Cannot connect to host 34.127.51.25:7473 ssl:default [Connect call failed ('34.127.51.25', 7473)]
+ ######### 
+
+http://43.153.120.240:8088
+⚠️ E :  Cannot connect to host 43.153.120.240:8088 ssl:default [Connect call failed ('43.153.120.240', 8088)]
+ ######### 
+
+http://119.129.236.38:801
+⚠️ E :  
+ ######### 
+
+http://47.254.79.127:3000
+⚠️ E :  Cannot connect to host 47.254.79.127:3000 ssl:default [Connect call failed ('47.254.79.127', 3000)]
+ ######### 
+
+http://154.23.186.185:8081
+⚠️ E :  Cannot connect to host 154.23.186.185:8081 ssl:default [Connect call failed ('154.23.186.185', 8081)]
+ ######### 
+
+http://47.242.165.228:80
+⚠️ E :  [Errno 104] Connection reset by peer
+ ######### 
+
+http://34.127.33.229:7001
+⚠️ E :  [Errno 104] Connection reset by peer
+ ######### 
+
+http://35.197.103.96:7900
+⚠️ E :  Cannot connect to host 35.197.103.96:7900 ssl:default [Connect call failed ('35.197.103.96', 7900)]
+ ######### 
+
+http://14.225.255.46:8101
+⚠️ E :  Cannot connect to host 14.225.255.46:8101 ssl:default [Connect call failed ('14.225.255.46', 8101)]
+ ######### 
+
+http://114.85.48.184:9117
+⚠️ E :  
+ ######### 
+
+http://45.76.218.50:8000
+⚠️ E :  
+ ######### 
+
+http://116.62.191.51:3000
+⚠️ E :  'result'
+ ######### 
+
+http://34.127.33.229:5724
+⚠️ E :  Server disconnected
+ ######### 
+
+http://103.145.85.82:8080
+⚠️ E :  
+ ######### 
+
+http://115.233.213.22:9900
+⚠️ E :  'result'
+ ######### 
+
+http://158.101.103.162:9100
+⚠️ E :  'result'
+ ######### 
+
+http://34.127.33.229:6134
+⚠️ E :  Cannot connect to host 34.127.33.229:6134 ssl:default [Connect call failed ('34.127.33.229', 6134)]
+ ######### 
+
+http://114.85.48.184:5357
+⚠️ E :  
+ ######### 
+
+http://43.130.230.251:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://43.130.230.251:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.212.24.236:8818
+⚠️ E :  
+ ######### 
+
+http://43.156.11.56:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://43.156.11.56:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://8.130.65.42:3002
+⚠️ E :  'result'
+ ######### 
+
+http://39.99.253.123:8123
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('http://39.99.253.123:8123/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://154.40.59.42:443
+⚠️ E :  Cannot connect to host 154.40.59.42:443 ssl:default [Connect call failed ('154.40.59.42', 443)]
+ ######### 
+
+http://8.222.184.212:3000
+⚠️ E :  Cannot connect to host 8.222.184.212:3000 ssl:default [Connect call failed ('8.222.184.212', 3000)]
+ ######### 
+
+http://159.223.101.133:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://159.223.101.133:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://74.48.64.20:3000
+⚠️ E :  'result'
+ ######### 
+
+http://8.217.166.195:80
+⚠️ E :  'result'
+ ######### 
+
+http://43.131.13.182:3000
+⚠️ E :  'result'
+ ######### 
+
+http://120.55.48.242:3000
+⚠️ E :  
+ ######### 
+
+http://199.19.109.199:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://199.19.109.199:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.203.152.12:7117
+⚠️ E :  Cannot connect to host 35.203.152.12:7117 ssl:default [Connect call failed ('35.203.152.12', 7117)]
+ ######### 
+
+http://49.212.208.34:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://49.212.208.34:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://144.24.94.214:53000
+⚠️ E :  'result'
+ ######### 
+
+http://43.128.106.140:3000
+⚠️ E :  Cannot connect to host 43.128.106.140:3000 ssl:default [Connect call failed ('43.128.106.140', 3000)]
+ ######### 
+
+http://139.64.176.210:3000
+⚠️ E :  'result'
+ ######### 
+
+http://114.132.63.95:3000
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://114.132.63.95:3000/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://47.242.165.228:3000
+⚠️ E :  Cannot connect to host 47.242.165.228:3000 ssl:default [Connect call failed ('47.242.165.228', 3000)]
+ ######### 
+
+http://45.76.187.150:3000
+⚠️ E :  Cannot connect to host 45.76.187.150:3000 ssl:default [Connect call failed ('45.76.187.150', 3000)]
+ ######### 
+
+http://34.127.51.25:7025
+⚠️ E :  'result'
+ ######### 
+
+http://74.48.64.20:8088
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://74.48.64.20:8088/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://89.185.28.173:3000
+⚠️ E :  'result'
+ ######### 
+
+http://173.249.206.35:8081
+⚠️ E :  Cannot connect to host 173.249.206.35:8081 ssl:default [Connect call failed ('173.249.206.35', 8081)]
+ ######### 
+
+http://118.26.36.240:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://118.26.36.240:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://144.34.244.15:3000
+⚠️ E :  'result'
+ ######### 
+
+http://34.105.122.120:6919
+⚠️ E :  'result'
+ ######### 
+
+http://8.219.184.27:3000
+⚠️ E :  'result'
+ ######### 
+
+http://119.129.236.38:5244
+⚠️ E :  
+ ######### 
+
+http://159.138.109.78:3000
+⚠️ E :  
+ ######### 
+
+http://219.137.170.4:9232
+⚠️ E :  Cannot connect to host 219.137.170.4:9232 ssl:default [Connect call failed ('219.137.170.4', 9232)]
+ ######### 
+
+http://222.90.103.241:9000
+⚠️ E :  
+ ######### 
+
+http://121.5.229.128:9200
+⚠️ E :  
+ ######### 
+
+http://144.24.94.214:26415
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://144.24.94.214:26415/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://8.137.21.206:3000
+⚠️ E :  'result'
+ ######### 
+
+http://47.242.121.51:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://47.242.121.51:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://8.222.137.96:3000
+⚠️ E :  Cannot connect to host 8.222.137.96:3000 ssl:default [Connect call failed ('8.222.137.96', 3000)]
+ ######### 
+
+http://39.106.229.111:3003
+⚠️ E :  
+ ######### 
+
+http://34.83.65.195:6775
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://lyrai.app/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://144.24.94.214:8087
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://144.24.94.214:8087/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.153.20.234:8080
+⚠️ E :  
+ ######### 
+
+http://118.26.36.240:8083
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://118.26.36.240:8083/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.193.89:8034
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.83.193.89:8034/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.24.176:6462
+⚠️ E :  'result'
+ ######### 
+
+http://65.75.221.24:81
+⚠️ E :  
+ ######### 
+
+http://103.254.108.44:443
+⚠️ E :  
+ ######### 
+
+http://129.226.225.229:65001
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://129.226.225.229:65001/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://8.217.25.58:8015
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://8.217.25.58:8015/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.247.60.154:6425
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://35.247.60.154:6425/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.105.122.120:8066
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.105.122.120:8066/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://154.40.59.27:8096
+⚠️ E :  'result'
+ ######### 
+
+http://14.155.174.21:20900
+⚠️ E :  
+ ######### 
+
+http://121.5.229.128:8848
+⚠️ E :  
+ ######### 
+
+http://34.168.166.210:7785
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.168.166.210:7785/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://107.174.253.28:3000
+⚠️ E :  Cannot connect to host 107.174.253.28:3000 ssl:default [Connect call failed ('107.174.253.28', 3000)]
+ ######### 
+
+http://184.174.4.51:9443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://184.174.4.51:9443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://20.42.91.103:443
+⚠️ E :  
+ ######### 
+
+http://121.196.96.122:8089
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; language=utf-8;charset=utf-8', url=URL('http://121.196.96.122:8089/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://172.82.16.157:8080
+⚠️ E :  
+ ######### 
+
+http://45.76.218.50:80
+⚠️ E :  
+ ######### 
+
+http://138.2.63.38:8080
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://138.2.63.38:8080/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.24.176:6717
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.127.24.176:6717/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://152.32.129.70:9898
+⚠️ E :  
+ ######### 
+
+http://120.237.153.194:8087
+⚠️ E :  
+ ######### 
+
+http://43.153.224.59:3100
+⚠️ E :  
+ ######### 
+
+http://141.11.108.204:2204
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://141.11.108.204:2204/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://173.249.206.35:443
+⚠️ E :  Cannot connect to host 173.249.206.35:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '173.249.206.35'. (_ssl.c:1007)")]
+ ######### 
+
+http://129.226.225.229:3001
+⚠️ E :  'result'
+ ######### 
+
+http://146.56.180.146:80
+⚠️ E :  'result'
+ ######### 
+
+http://212.224.113.173:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://212.224.113.173:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://94.74.91.107:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://94.74.91.107:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://1.117.81.95:8000
+⚠️ E :  
+ ######### 
+
+http://150.230.199.41:80
+⚠️ E :  
+ ######### 
+
+http://154.12.83.61:888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://154.12.83.61:888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://218.253.140.45:8000
+⚠️ E :  Cannot connect to host 218.253.140.45:8000 ssl:default [Connect call failed ('218.253.140.45', 8000)]
+ ######### 
+
+http://34.168.166.210:6050
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('http://34.168.166.210:6050/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.193.89:7580
+⚠️ E :  'result'
+ ######### 
+
+http://45.76.218.50:3000
+⚠️ E :  
+ ######### 
+
+http://47.243.132.85:9966
+⚠️ E :  Cannot connect to host 47.243.132.85:9966 ssl:default [Connect call failed ('47.243.132.85', 9966)]
+ ######### 
+
+http://154.204.30.117:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=iso-8859-1', url=URL('http://154.204.30.117:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://119.129.239.120:3000
+⚠️ E :  
+ ######### 
+
+http://121.196.96.122:8088
+⚠️ E :  Cannot connect to host 121.196.96.122:8088 ssl:default [Connect call failed ('121.196.96.122', 8088)]
+ ######### 
+
+http://34.168.166.210:6721
+⚠️ E :  Cannot connect to host 34.168.166.210:6721 ssl:default [Connect call failed ('34.168.166.210', 6721)]
+ ######### 
+
+http://35.247.60.154:6792
+⚠️ E :  Cannot connect to host 35.247.60.154:6792 ssl:default [Connect call failed ('35.247.60.154', 6792)]
+ ######### 
+
+http://49.235.42.54:8091
+⚠️ E :  'result'
+ ######### 
+
+http://31.22.108.70:3000
+⚠️ E :  Cannot connect to host 31.22.108.70:3000 ssl:default [Connect call failed ('31.22.108.70', 3000)]
+ ######### 
+
+http://18.183.90.95:3000
+⚠️ E :  
+ ######### 
+
+http://192.3.155.67:3000
+⚠️ E :  'result'
+ ######### 
+
+http://164.155.205.94:3000
+⚠️ E :  'result'
+ ######### 
+
+http://8.222.166.32:8092
+⚠️ E :  
+ ######### 
+
+http://150.230.215.211:8088
+⚠️ E :  Cannot connect to host 150.230.215.211:8088 ssl:default [Connect call failed ('150.230.215.211', 8088)]
+ ######### 
+
+http://35.203.152.12:5586
+⚠️ E :  Cannot connect to host 35.203.152.12:5586 ssl:default [Connect call failed ('35.203.152.12', 5586)]
+ ######### 
+
+http://124.71.172.39:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://124.71.172.39:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.134.117.173:8080
+⚠️ E :  Cannot connect to host 43.134.117.173:8080 ssl:default [Connect call failed ('43.134.117.173', 8080)]
+ ######### 
+
+http://23.224.85.98:3000
+⚠️ E :  Cannot connect to host 23.224.85.98:3000 ssl:default [Connect call failed ('23.224.85.98', 3000)]
+ ######### 
+
+http://192.9.151.115:8083
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://192.9.151.115:8083/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://123.56.136.54:8888
+⚠️ E :  
+ ######### 
+
+http://34.83.193.89:5611
+⚠️ E :  Cannot connect to host 34.83.193.89:5611 ssl:default [Connect call failed ('34.83.193.89', 5611)]
+ ######### 
+
+http://45.142.159.247:8899
+⚠️ E :  Cannot connect to host 45.142.159.247:8899 ssl:default [Connect call failed ('45.142.159.247', 8899)]
+ ######### 
+
+http://45.142.159.247:3020
+⚠️ E :  Cannot connect to host 45.142.159.247:3020 ssl:default [Connect call failed ('45.142.159.247', 3020)]
+ ######### 
+
+http://107.148.0.24:13095
+⚠️ E :  Cannot connect to host 107.148.0.24:13095 ssl:default [Connect call failed ('107.148.0.24', 13095)]
+ ######### 
+
+http://165.154.29.54:5901
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://165.154.29.54:5901/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://23.95.20.240:9184
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('http://23.95.20.240:9184/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.33.229:5701
+⚠️ E :  Cannot connect to host 34.127.33.229:5701 ssl:default [Connect call failed ('34.127.33.229', 5701)]
+ ######### 
+
+http://119.45.93.31:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://119.45.93.31:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://202.43.226.14:3000
+⚠️ E :  'result'
+ ######### 
+
+http://65.75.221.24:7800
+⚠️ E :  
+ ######### 
+
+http://66.151.170.19:80
+⚠️ E :  
+ ######### 
+
+http://173.242.114.202:58772
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://173.242.114.202:58772/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.247.60.154:6021
+⚠️ E :  Cannot connect to host 35.247.60.154:6021 ssl:default [Connect call failed ('35.247.60.154', 6021)]
+ ######### 
+
+http://173.242.114.202:54444
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://173.242.114.202:54444/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://144.34.244.15:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://144.34.244.15:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://173.242.120.185:8089
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://173.242.120.185:8089/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://38.60.251.206:443
+⚠️ E :  
+ ######### 
+
+http://35.203.152.12:7055
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://35.203.152.12:7055/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://120.198.17.24:8100
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://120.198.17.24:8100/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://47.243.132.85:8100
+⚠️ E :  Cannot connect to host 47.243.132.85:8100 ssl:default [Connect call failed ('47.243.132.85', 8100)]
+ ######### 
+
+http://34.127.33.229:5864
+⚠️ E :  Cannot connect to host 34.127.33.229:5864 ssl:default [Connect call failed ('34.127.33.229', 5864)]
+ ######### 
+
+http://172.82.16.157:8000
+⚠️ E :  
+ ######### 
+
+http://34.127.51.25:8045
+⚠️ E :  Cannot connect to host 34.127.51.25:8045 ssl:default [Connect call failed ('34.127.51.25', 8045)]
+ ######### 
+
+http://34.105.122.120:7138
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.105.122.120:7138/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://45.76.218.50:8090
+⚠️ E :  
+ ######### 
+
+http://121.5.229.128:9210
+⚠️ E :  
+ ######### 
+
+http://34.127.33.229:8004
+⚠️ E :  Server disconnected
+ ######### 
+
+http://49.232.211.133:3000
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://49.232.211.133:3000/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.153.61.47:80
+⚠️ E :  Cannot connect to host 43.153.61.47:80 ssl:default [Connect call failed ('43.153.61.47', 80)]
+ ######### 
+
+http://154.23.186.185:8000
+⚠️ E :  Cannot connect to host 154.23.186.185:8000 ssl:default [Connect call failed ('154.23.186.185', 8000)]
+ ######### 
+
+http://47.74.60.195:11114
+⚠️ E :  'result'
+ ######### 
+
+http://43.134.233.41:3000
+⚠️ E :  'result'
+ ######### 
+
+http://106.227.89.170:8888
+⚠️ E :  Cannot connect to host 106.227.89.170:8888 ssl:default [Connect call failed ('106.227.89.170', 8888)]
+ ######### 
+
+http://149.248.13.41:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://149.248.13.41:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://47.108.221.69:30001
+⚠️ E :  Cannot connect to host 47.108.221.69:30001 ssl:default [Connect call failed ('47.108.221.69', 30001)]
+ ######### 
+
+http://43.153.214.181:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://43.153.214.181:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://47.87.203.234:80
+⚠️ E :  Cannot connect to host 47.87.203.234:80 ssl:default [Connect call failed ('47.87.203.234', 80)]
+ ######### 
+
+http://8.218.190.249:8080
+⚠️ E :  
+ ######### 
+
+http://20.42.91.103:80
+⚠️ E :  
+ ######### 
+
+http://34.83.193.89:8070
+⚠️ E :  Cannot connect to host 34.83.193.89:8070 ssl:default [Connect call failed ('34.83.193.89', 8070)]
+ ######### 
+
+http://89.185.28.173:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://89.185.28.173:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://173.242.114.202:80
+⚠️ E :  Cannot connect to host 173.242.114.202:80 ssl:default [Connect call failed ('173.242.114.202', 80)]
+ ######### 
+
+http://152.32.129.70:443
+⚠️ E :  
+ ######### 
+
+http://149.88.64.140:1002
+⚠️ E :  
+ ######### 
+
+http://120.237.153.194:8105
+⚠️ E :  
+ ######### 
+
+http://131.186.27.113:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://131.186.27.113:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.33.229:5953
+⚠️ E :  Server disconnected
+ ######### 
+
+http://121.5.229.128:80
+⚠️ E :  
+ ######### 
+
+http://34.127.24.176:6402
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.127.24.176:6402/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://104.36.84.203:3210
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://104.36.84.203:3210/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://113.116.180.10:602
+⚠️ E :  
+ ######### 
+
+http://223.167.150.90:8000
+⚠️ E :  
+ ######### 
+
+http://104.225.149.241:81
+⚠️ E :  'result'
+ ######### 
+
+http://35.197.103.96:6022
+⚠️ E :  Cannot connect to host 35.197.103.96:6022 ssl:default [Connect call failed ('35.197.103.96', 6022)]
+ ######### 
+
+http://104.225.149.241:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://104.225.149.241:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://218.85.22.143:5001
+⚠️ E :  
+ ######### 
+
+http://199.19.109.199:5000
+⚠️ E :  
+ ######### 
+
+http://49.232.211.133:8690
+⚠️ E :  Cannot connect to host 49.232.211.133:8690 ssl:default [Connect call failed ('49.232.211.133', 8690)]
+ ######### 
+
+http://8.222.174.34:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://8.222.174.34:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://211.101.236.233:443
+⚠️ E :  Cannot connect to host 211.101.236.233:443 ssl:default [Connect call failed ('211.101.236.233', 443)]
+ ######### 
+
+http://8.219.217.239:1563
+⚠️ E :  Cannot connect to host 8.219.217.239:1563 ssl:default [Connect call failed ('8.219.217.239', 1563)]
+ ######### 
+
+http://150.230.215.211:3000
+⚠️ E :  Cannot connect to host 150.230.215.211:3000 ssl:default [Connect call failed ('150.230.215.211', 3000)]
+ ######### 
+
+http://89.185.28.173:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://89.185.28.173:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.203.152.12:6867
+⚠️ E :  Cannot connect to host 35.203.152.12:6867 ssl:default [Connect call failed ('35.203.152.12', 6867)]
+ ######### 
+
+http://35.247.60.154:7676
+⚠️ E :  Cannot connect to host 35.247.60.154:7676 ssl:default [Connect call failed ('35.247.60.154', 7676)]
+ ######### 
+
+http://104.194.246.157:80
+⚠️ E :  
+ ######### 
+
+http://23.224.85.81:888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://23.224.85.81:888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.193.89:6021
+⚠️ E :  Cannot connect to host 34.83.193.89:6021 ssl:default [Connect call failed ('34.83.193.89', 6021)]
+ ######### 
+
+http://43.251.17.160:888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://43.251.17.160:888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.203.152.12:6152
+⚠️ E :  Cannot connect to host 35.203.152.12:6152 ssl:default [Connect call failed ('35.203.152.12', 6152)]
+ ######### 
+
+http://47.236.31.18:9443
+⚠️ E :  Cannot connect to host 47.236.31.18:9443 ssl:default [Connect call failed ('47.236.31.18', 9443)]
+ ######### 
+
+http://112.48.31.43:8503
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://112.48.31.43:8503/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.197.103.96:6881
+⚠️ E :  Cannot connect to host 35.197.103.96:6881 ssl:default [Connect call failed ('35.197.103.96', 6881)]
+ ######### 
+
+http://3.67.188.173:80
+⚠️ E :  'result'
+ ######### 
+
+http://34.145.73.26:3000
+⚠️ E :  
+ ######### 
+
+http://43.163.244.66:5500
+⚠️ E :  Cannot connect to host 43.163.244.66:5500 ssl:default [Connect call failed ('43.163.244.66', 5500)]
+ ######### 
+
+http://35.197.103.96:5897
+⚠️ E :  Cannot connect to host 35.197.103.96:5897 ssl:default [Connect call failed ('35.197.103.96', 5897)]
+ ######### 
+
+http://34.83.193.89:6454
+⚠️ E :  Cannot connect to host 34.83.193.89:6454 ssl:default [Connect call failed ('34.83.193.89', 6454)]
+ ######### 
+
+http://65.75.221.24:3128
+⚠️ E :  
+ ######### 
+
+http://34.105.122.120:6931
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/plain', url=URL('http://34.105.122.120:6931/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://158.101.159.35:5001
+⚠️ E :  
+ ######### 
+
+http://116.62.191.51:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://116.62.191.51:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://120.76.153.66:8080
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://120.76.153.66:8080/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://211.101.236.233:3000
+⚠️ E :  Cannot connect to host 211.101.236.233:3000 ssl:default [Connect call failed ('211.101.236.233', 3000)]
+ ######### 
+
+http://35.203.152.12:7634
+⚠️ E :  Cannot connect to host 35.203.152.12:7634 ssl:default [Connect call failed ('35.203.152.12', 7634)]
+ ######### 
+
+http://58.23.56.9:8503
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://58.23.56.9:8503/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://119.129.239.120:5000
+⚠️ E :  
+ ######### 
+
+http://125.40.114.148:49160
+⚠️ E :  
+ ######### 
+
+http://64.69.40.60:888
+⚠️ E :  
+ ######### 
+
+http://107.172.90.229:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://107.172.90.229:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://8.222.166.32:443
+⚠️ E :  
+ ######### 
+
+http://43.134.117.173:3000
+⚠️ E :  Cannot connect to host 43.134.117.173:3000 ssl:default [Connect call failed ('43.134.117.173', 3000)]
+ ######### 
+
+http://8.222.174.34:443
+⚠️ E :  Cannot connect to host 8.222.174.34:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '8.222.174.34'. (_ssl.c:1007)")]
+ ######### 
+
+http://121.5.229.128:9204
+⚠️ E :  
+ ######### 
+
+http://104.36.84.203:9000
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://104.36.84.203:9000/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://165.154.57.78:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://165.154.57.78:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://115.235.28.222:5000
+⚠️ E :  
+ ######### 
+
+http://114.85.48.184:50002
+⚠️ E :  
+ ######### 
+
+http://165.154.183.64:3010
+⚠️ E :  'result'
+ ######### 
+
+http://34.127.24.176:8016
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.127.24.176:8016/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.129.26.183:443
+⚠️ E :  Cannot connect to host 43.129.26.183:443 ssl:True [SSLCertVerificationError: (1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1007)')]
+ ######### 
+
+http://194.36.170.169:5000
+⚠️ E :  
+ ######### 
+
+http://192.210.241.41:3000
+⚠️ E :  'result'
+ ######### 
+
+http://104.225.149.241:8080
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://104.225.149.241:8080/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://161.129.34.96:8096
+⚠️ E :  
+ ######### 
+
+http://114.85.48.184:32400
+⚠️ E :  
+ ######### 
+
+http://120.46.66.243:81
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://120.46.66.243:81/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.247.60.154:7366
+⚠️ E :  Cannot connect to host 35.247.60.154:7366 ssl:default [Connect call failed ('35.247.60.154', 7366)]
+ ######### 
+
+http://125.40.114.148:5001
+⚠️ E :  
+ ######### 
+
+http://180.162.116.73:50002
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://180.162.116.73:50002/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://132.226.230.69:888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://132.226.230.69:888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://18.183.90.95:80
+⚠️ E :  
+ ######### 
+
+http://66.151.170.19:443
+⚠️ E :  
+ ######### 
+
+http://34.168.166.210:7776
+⚠️ E :  Cannot connect to host 34.168.166.210:7776 ssl:default [Connect call failed ('34.168.166.210', 7776)]
+ ######### 
+
+http://110.42.132.42:8093
+⚠️ E :  Cannot connect to host 110.42.132.42:8093 ssl:default [Connect call failed ('110.42.132.42', 8093)]
+ ######### 
+
+http://159.75.73.147:8066
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://159.75.73.147:8066/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.24.176:5938
+⚠️ E :  Cannot connect to host 34.127.24.176:5938 ssl:default [Connect call failed ('34.127.24.176', 5938)]
+ ######### 
+
+http://120.198.17.24:8085
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/plain', url=URL('http://120.198.17.24:8085/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.203.152.12:7420
+⚠️ E :  Cannot connect to host 35.203.152.12:7420 ssl:default [Connect call failed ('35.203.152.12', 7420)]
+ ######### 
+
+http://8.210.150.34:8003
+⚠️ E :  'result'
+ ######### 
+
+http://34.105.122.120:5802
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.105.122.120:5802/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.156.11.56:888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://43.156.11.56:888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.65.195:6260
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.83.65.195:6260/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://104.225.149.241:10100
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://104.225.149.241:10100/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.203.152.12:6154
+⚠️ E :  Cannot connect to host 35.203.152.12:6154 ssl:default [Connect call failed ('35.203.152.12', 6154)]
+ ######### 
+
+http://35.247.60.154:8064
+⚠️ E :  Cannot connect to host 35.247.60.154:8064 ssl:default [Connect call failed ('35.247.60.154', 8064)]
+ ######### 
+
+http://49.235.42.54:8999
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://49.235.42.54:8999/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://158.101.159.35:20080
+⚠️ E :  
+ ######### 
+
+http://34.127.51.25:8008
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('http://34.127.51.25:8008/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.105.122.120:6280
+⚠️ E :  'result'
+ ######### 
+
+http://65.75.221.24:9441
+⚠️ E :  
+ ######### 
+
+http://129.226.225.229:527
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://129.226.225.229:527/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://49.232.211.133:8001
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://49.232.211.133:8001/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://58.23.56.9:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://58.23.56.9:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.153.120.240:8080
+⚠️ E :  Cannot connect to host 43.153.120.240:8080 ssl:default [Connect call failed ('43.153.120.240', 8080)]
+ ######### 
+
+http://121.196.96.122:97
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://121.196.96.122:97/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://144.202.101.71:9000
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/plain', url=URL('http://144.202.101.71:9000/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://23.95.20.240:5003
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://23.95.20.240:5003/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.33.229:7900
+⚠️ E :  Cannot connect to host 34.127.33.229:7900 ssl:default [Connect call failed ('34.127.33.229', 7900)]
+ ######### 
+
+http://47.100.27.88:3000
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://47.100.27.88:3000/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://120.46.66.243:6002
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://120.46.66.243:6002/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://124.71.172.39:9403
+⚠️ E :  Cannot connect to host 124.71.172.39:9403 ssl:default [Connect call failed ('124.71.172.39', 9403)]
+ ######### 
+
+http://125.40.114.148:7860
+⚠️ E :  
+ ######### 
+
+http://64.176.194.100:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://64.176.194.100:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://47.99.240.3:8080
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://47.99.240.3:8080/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://124.221.138.46:3000
+⚠️ E :  Cannot connect to host 124.221.138.46:3000 ssl:default [Connect call failed ('124.221.138.46', 3000)]
+ ######### 
+
+http://160.251.122.225:80
+⚠️ E :  Cannot connect to host 160.251.122.225:80 ssl:default [Connect call failed ('160.251.122.225', 80)]
+ ######### 
+
+http://8.222.166.32:3344
+⚠️ E :  
+ ######### 
+
+http://154.17.9.211:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://154.17.9.211:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://110.80.25.251:8080
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://110.80.25.251:8080/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.197.103.96:6225
+⚠️ E :  'result'
+ ######### 
+
+http://173.242.114.202:57778
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://173.242.114.202:57778/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://124.222.149.22:3000
+⚠️ E :  
+ ######### 
+
+http://43.134.53.184:443
+⚠️ E :  Cannot connect to host 43.134.53.184:443 ssl:default [Connect call failed ('43.134.53.184', 443)]
+ ######### 
+
+http://47.74.60.195:8888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://47.74.60.195:8888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://124.71.172.39:9510
+⚠️ E :  Cannot connect to host 124.71.172.39:9510 ssl:default [Connect call failed ('124.71.172.39', 9510)]
+ ######### 
+
+http://43.163.205.133:3000
+⚠️ E :  http://43.163.205.133:3000api/midjourney/mj/task/0242626838173019/fetch
+ ######### 
+
+http://120.76.153.66:3000
+⚠️ E :  Cannot connect to host 120.76.153.66:3000 ssl:default [Connect call failed ('120.76.153.66', 3000)]
+ ######### 
+
+http://8.213.158.196:21435
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://8.213.158.196:21435/api/midjourney/mj/submit/login.php')
+ ######### 
+
+http://159.138.109.78:443
+⚠️ E :  
+ ######### 
+
+http://34.83.193.89:8077
+⚠️ E :  Cannot connect to host 34.83.193.89:8077 ssl:default [Connect call failed ('34.83.193.89', 8077)]
+ ######### 
+
+http://43.129.26.183:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://43.129.26.183:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.193.89:8043
+⚠️ E :  Cannot connect to host 34.83.193.89:8043 ssl:default [Connect call failed ('34.83.193.89', 8043)]
+ ######### 
+
+http://172.188.24.117:30089
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://172.188.24.117:30089/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.105.122.120:6826
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.105.122.120:6826/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.168.166.210:7631
+⚠️ E :  Cannot connect to host 34.168.166.210:7631 ssl:default [Connect call failed ('34.168.166.210', 7631)]
+ ######### 
+
+http://124.71.172.39:9304
+⚠️ E :  'result'
+ ######### 
+
+http://43.156.132.172:8887
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://43.156.132.172:8887/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.24.176:6539
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.127.24.176:6539/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://47.242.68.211:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://47.242.68.211:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://172.104.80.65:8080
+⚠️ E :  
+ ######### 
+
+http://74.48.64.20:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://74.48.64.20:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.197.103.96:7356
+⚠️ E :  Cannot connect to host 35.197.103.96:7356 ssl:default [Connect call failed ('35.197.103.96', 7356)]
+ ######### 
+
+http://119.8.184.19:3001
+⚠️ E :  
+ ######### 
+
+http://34.127.24.176:5824
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('http://34.127.24.176:5824/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://161.97.164.91:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://161.97.164.91:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://120.78.128.209:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://120.78.128.209:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.105.122.120:6021
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://34.105.122.120:6021/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://173.242.114.202:30050
+⚠️ E :  'result'
+ ######### 
+
+http://119.8.55.49:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://119.8.55.49:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://124.71.172.39:9400
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://124.71.172.39:9400/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://124.71.172.39:9100
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://124.71.172.39:9100/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://23.224.102.48:3000
+⚠️ E :  
+ ######### 
+
+http://20.89.111.187:30000
+⚠️ E :  
+ ######### 
+
+http://103.73.163.95:3000
+⚠️ E :  Cannot connect to host 103.73.163.95:3000 ssl:default [Connect call failed ('103.73.163.95', 3000)]
+ ######### 
+
+http://14.225.255.46:9000
+⚠️ E :  Cannot connect to host 14.225.255.46:9000 ssl:default [Connect call failed ('14.225.255.46', 9000)]
+ ######### 
+
+http://54.178.226.95:443
+⚠️ E :  
+ ######### 
+
+http://120.46.66.243:3003
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://120.46.66.243:3003/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.156.156.226:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://43.156.156.226:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://49.51.163.72:8811
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://49.51.163.72:8811/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://119.91.218.155:17388
+⚠️ E :  Cannot connect to host 119.91.218.155:17388 ssl:default [Connect call failed ('119.91.218.155', 17388)]
+ ######### 
+
+http://43.153.214.181:7788
+⚠️ E :  
+ ######### 
+
+http://124.71.172.39:9600
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://124.71.172.39:9600/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.24.176:5659
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.127.24.176:5659/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.156.101.107:8888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://43.156.101.107:8888/login')
+ ######### 
+
+http://119.129.236.38:5005
+⚠️ E :  
+ ######### 
+
+http://114.85.48.184:50001
+⚠️ E :  
+ ######### 
+
+http://39.99.253.123:888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://39.99.253.123:888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.247.60.154:6058
+⚠️ E :  Cannot connect to host 35.247.60.154:6058 ssl:default [[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1007)]
+ ######### 
+
+http://34.105.122.120:6079
+⚠️ E :  'result'
+ ######### 
+
+http://116.62.191.51:8080
+⚠️ E :  'result'
+ ######### 
+
+http://34.127.24.176:7885
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.127.24.176:7885/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://222.90.103.241:5000
+⚠️ E :  
+ ######### 
+
+http://139.155.240.78:3002
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://139.155.240.78:3002/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://20.39.186.135:3000
+⚠️ E :  'result'
+ ######### 
+
+http://34.127.33.229:6694
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.127.33.229:6694/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.156.132.172:3000
+⚠️ E :  'result'
+ ######### 
+
+http://43.153.0.253:3000
+⚠️ E :  
+ ######### 
+
+http://35.247.60.154:6605
+⚠️ E :  Cannot connect to host 35.247.60.154:6605 ssl:default [Connect call failed ('35.247.60.154', 6605)]
+ ######### 
+
+http://47.74.60.195:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://47.74.60.195:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.33.229:5649
+⚠️ E :  Cannot connect to host 34.127.33.229:5649 ssl:default [Connect call failed ('34.127.33.229', 5649)]
+ ######### 
+
+http://34.168.166.210:6534
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.168.166.210:6534/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.197.103.96:6379
+⚠️ E :  Cannot connect to host 35.197.103.96:6379 ssl:default [Connect call failed ('35.197.103.96', 6379)]
+ ######### 
+
+http://185.81.28.113:80
+⚠️ E :  Cannot connect to host 185.81.28.113:80 ssl:default [Connect call failed ('185.81.28.113', 80)]
+ ######### 
+
+http://74.48.64.20:5244
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://74.48.64.20:5244/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://192.9.151.115:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://192.9.151.115:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://124.71.172.39:9888
+⚠️ E :  Cannot connect to host 124.71.172.39:9888 ssl:default [Connect call failed ('124.71.172.39', 9888)]
+ ######### 
+
+http://96.43.84.37:9443
+⚠️ E :  
+ ######### 
+
+http://8.219.184.27:8801
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://8.219.184.27:8801/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.65.195:8075
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://34.83.65.195:8075/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://110.80.25.251:8502
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://110.80.25.251:8502/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://114.85.48.184:5005
+⚠️ E :  
+ ######### 
+
+http://158.101.159.35:5000
+⚠️ E :  
+ ######### 
+
+http://47.242.121.51:8080
+⚠️ E :  Cannot connect to host 47.242.121.51:8080 ssl:default [Connect call failed ('47.242.121.51', 8080)]
+ ######### 
+
+http://35.203.152.12:7987
+⚠️ E :  Cannot connect to host 35.203.152.12:7987 ssl:default [Connect call failed ('35.203.152.12', 7987)]
+ ######### 
+
+http://124.71.172.39:9310
+⚠️ E :  Cannot connect to host 124.71.172.39:9310 ssl:default [Connect call failed ('124.71.172.39', 9310)]
+ ######### 
+
+http://34.127.51.25:6400
+⚠️ E :  400, message="Expected HTTP/:\n\n  b'I'\n    ^", url=URL('http://34.127.51.25:6400/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.24.176:6557
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.127.24.176:6557/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://8.217.25.58:8011
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://8.217.25.58:8011/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.51.25:7775
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.127.51.25:7775/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://198.55.120.244:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=iso-8859-1', url=URL('http://198.55.120.244:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.105.122.120:8010
+⚠️ E :  'result'
+ ######### 
+
+http://43.134.170.201:3003
+⚠️ E :  http://43.134.170.201:3003api/midjourney/mj/task/1706728561893175/fetch
+ ######### 
+
+http://103.254.108.44:80
+⚠️ E :  
+ ######### 
+
+http://34.83.193.89:7788
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.83.193.89:7788/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://8.219.55.98:8080
+⚠️ E :  
+ ######### 
+
+http://34.127.24.176:7764
+⚠️ E :  'result'
+ ######### 
+
+http://47.111.26.45:3002
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('http://47.111.26.45:3002/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.193.89:7326
+⚠️ E :  Cannot connect to host 34.83.193.89:7326 ssl:default [Connect call failed ('34.83.193.89', 7326)]
+ ######### 
+
+http://1.117.169.216:888
+⚠️ E :  
+ ######### 
+
+http://34.105.122.120:7172
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://34.105.122.120:7172/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://150.230.215.211:8080
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://150.230.215.211:8080/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://172.104.80.65:3000
+⚠️ E :  
+ ######### 
+
+http://34.168.166.210:5976
+⚠️ E :  Server disconnected
+ ######### 
+
+http://1.116.73.168:888
+⚠️ E :  
+ ######### 
+
+http://154.40.59.27:8095
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://154.40.59.27:8095/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.163.219.166:3000
+⚠️ E :  
+ ######### 
+
+http://173.82.202.117:42625
+⚠️ E :  Cannot connect to host 173.82.202.117:42625 ssl:default [Connect call failed ('173.82.202.117', 42625)]
+ ######### 
+
+http://185.81.28.113:9000
+⚠️ E :  Cannot connect to host 185.81.28.113:9000 ssl:default [Connect call failed ('185.81.28.113', 9000)]
+ ######### 
+
+http://144.24.94.214:30080
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://144.24.94.214:30080/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://120.237.153.194:8088
+⚠️ E :  
+ ######### 
+
+http://120.26.78.9:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://120.26.78.9:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://119.129.236.38:3000
+⚠️ E :  
+ ######### 
+
+http://222.90.108.203:9000
+⚠️ E :  
+ ######### 
+
+http://154.40.59.42:8848
+⚠️ E :  Cannot connect to host 154.40.59.42:8848 ssl:default [Connect call failed ('154.40.59.42', 8848)]
+ ######### 
+
+http://114.85.48.184:49170
+⚠️ E :  
+ ######### 
+
+http://47.92.91.79:443
+⚠️ E :  Cannot connect to host 47.92.91.79:443 ssl:default [Connect call failed ('47.92.91.79', 443)]
+ ######### 
+
+http://108.61.229.52:80
+⚠️ E :  
+ ######### 
+
+http://114.119.175.220:36821
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://114.119.175.220:36821/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.203.152.12:5901
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://35.203.152.12:5901/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.65.195:8016
+⚠️ E :  Cannot connect to host 34.83.65.195:8016 ssl:default [Connect call failed ('34.83.65.195', 8016)]
+ ######### 
+
+http://192.9.151.115:27701
+⚠️ E :  400, message="Invalid HTTP version:\n\n  b'HTTP/0.0 307 Temporary Redirect'\n            ^", url=URL('http://192.9.151.115:27701/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.24.176:6980
+⚠️ E :  Cannot connect to host 34.127.24.176:6980 ssl:default [Connect call failed ('34.127.24.176', 6980)]
+ ######### 
+
+http://13.231.172.220:3000
+⚠️ E :  http://13.231.172.220:3000api/midjourney/mj/task/1706728689856223/fetch
+ ######### 
+
+http://110.80.25.251:8508
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://110.80.25.251:8508/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://198.2.254.192:9000
+⚠️ E :  
+ ######### 
+
+http://49.235.42.54:443
+⚠️ E :  Server disconnected
+ ######### 
+
+http://120.78.128.209:5000
+⚠️ E :  Cannot connect to host 120.78.128.209:5000 ssl:default [Connect call failed ('120.78.128.209', 5000)]
+ ######### 
+
+http://16.162.90.27:80
+⚠️ E :  
+ ######### 
+
+http://35.203.152.12:7547
+⚠️ E :  Cannot connect to host 35.203.152.12:7547 ssl:default [Connect call failed ('35.203.152.12', 7547)]
+ ######### 
+
+http://165.154.183.64:8080
+⚠️ E :  Cannot connect to host 165.154.183.64:8080 ssl:default [Connect call failed ('165.154.183.64', 8080)]
+ ######### 
+
+http://185.81.28.113:3000
+⚠️ E :  Cannot connect to host 185.81.28.113:3000 ssl:default [Connect call failed ('185.81.28.113', 3000)]
+ ######### 
+
+http://125.40.114.148:5357
+⚠️ E :  
+ ######### 
+
+http://34.127.51.25:6544
+⚠️ E :  Cannot connect to host 34.127.51.25:6544 ssl:default [Connect call failed ('34.127.51.25', 6544)]
+ ######### 
+
+http://144.34.244.15:8080
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://144.34.244.15:8080/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.197.103.96:7073
+⚠️ E :  Cannot connect to host 35.197.103.96:7073 ssl:default [Connect call failed ('35.197.103.96', 7073)]
+ ######### 
+
+http://34.105.122.120:5730
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://34.105.122.120:5730/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://173.82.141.190:5244
+⚠️ E :  Cannot connect to host 173.82.141.190:5244 ssl:default [Connect call failed ('173.82.141.190', 5244)]
+ ######### 
+
+http://35.203.152.12:6666
+⚠️ E :  Cannot connect to host 35.203.152.12:6666 ssl:default [Connect call failed ('35.203.152.12', 6666)]
+ ######### 
+
+http://154.40.59.42:9090
+⚠️ E :  Cannot connect to host 154.40.59.42:9090 ssl:default [Connect call failed ('154.40.59.42', 9090)]
+ ######### 
+
+http://43.156.156.226:8080
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://43.156.156.226:8080/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://124.71.172.39:9311
+⚠️ E :  'result'
+ ######### 
+
+http://129.226.165.91:3005
+⚠️ E :  'result'
+ ######### 
+
+http://47.251.57.181:3000
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://47.251.57.181:3000/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.33.229:6599
+⚠️ E :  Cannot connect to host 34.127.33.229:6599 ssl:default [Connect call failed ('34.127.33.229', 6599)]
+ ######### 
+
+http://124.223.141.22:8888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://124.223.141.22:8888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://222.90.103.81:9000
+⚠️ E :  
+ ######### 
+
+http://154.9.228.253:3000
+⚠️ E :  'result'
+ ######### 
+
+http://124.71.172.39:9500
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://124.71.172.39:9500/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://185.232.92.80:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://185.232.92.80:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.33.229:5467
+⚠️ E :  Cannot connect to host 34.127.33.229:5467 ssl:default [Connect call failed ('34.127.33.229', 5467)]
+ ######### 
+
+http://47.74.60.195:11112
+⚠️ E :  'result'
+ ######### 
+
+http://34.168.166.210:6479
+⚠️ E :  Cannot connect to host 34.168.166.210:6479 ssl:default [Connect call failed ('34.168.166.210', 6479)]
+ ######### 
+
+http://34.127.33.229:7907
+⚠️ E :  Cannot connect to host 34.127.33.229:7907 ssl:default [Connect call failed ('34.127.33.229', 7907)]
+ ######### 
+
+http://34.212.24.236:80
+⚠️ E :  Cannot connect to host 34.212.24.236:80 ssl:default [Connect call failed ('34.212.24.236', 80)]
+ ######### 
+
+http://39.106.229.111:888
+⚠️ E :  
+ ######### 
+
+http://35.197.103.96:6143
+⚠️ E :  Cannot connect to host 35.197.103.96:6143 ssl:default [Connect call failed ('35.197.103.96', 6143)]
+ ######### 
+
+http://34.168.166.210:6845
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.168.166.210:6845/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://13.239.169.213:3001
+⚠️ E :  
+ ######### 
+
+http://164.155.205.94:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://164.155.205.94:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://35.203.152.12:7373
+⚠️ E :  Cannot connect to host 35.203.152.12:7373 ssl:default [Connect call failed ('35.203.152.12', 7373)]
+ ######### 
+
+http://152.32.129.70:8123
+⚠️ E :  
+ ######### 
+
+http://119.8.184.19:80
+⚠️ E :  
+ ######### 
+
+http://45.142.159.247:888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://45.142.159.247:888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://8.130.65.42:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://8.130.65.42:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://119.23.227.244:3010
+⚠️ E :  Cannot connect to host 119.23.227.244:3010 ssl:default [Connect call failed ('119.23.227.244', 3010)]
+ ######### 
+
+http://8.219.173.237:80
+⚠️ E :  Cannot connect to host 8.219.173.237:80 ssl:default [Connect call failed ('8.219.173.237', 80)]
+ ######### 
+
+http://60.168.243.85:8082
+⚠️ E :  
+ ######### 
+
+http://192.253.238.117:8091
+⚠️ E :  
+ ######### 
+
+http://47.99.208.206:3000
+⚠️ E :  
+ ######### 
+
+http://43.133.196.156:80
+⚠️ E :  
+ ######### 
+
+http://122.233.166.88:27716
+⚠️ E :  Cannot connect to host 122.233.166.88:27716 ssl:default [Connect call failed ('122.233.166.88', 27716)]
+ ######### 
+
+http://8.219.217.239:11112
+⚠️ E :  'result'
+ ######### 
+
+http://192.210.241.41:8888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://192.210.241.41:8888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://107.148.0.24:3000
+⚠️ E :  Cannot connect to host 107.148.0.24:3000 ssl:default [Connect call failed ('107.148.0.24', 3000)]
+ ######### 
+
+http://49.232.211.133:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://49.232.211.133:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.65.195:7100
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.83.65.195:7100/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.153.67.178:3000
+⚠️ E :  'result'
+ ######### 
+
+http://144.34.244.15:8000
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://144.34.244.15:8000/template/')
+ ######### 
+
+http://34.127.33.229:5621
+⚠️ E :  Cannot connect to host 34.127.33.229:5621 ssl:default [Connect call failed ('34.127.33.229', 5621)]
+ ######### 
+
+http://120.237.153.194:8084
+⚠️ E :  
+ ######### 
+
+http://8.217.25.58:8016
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://8.217.25.58:8016/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://60.168.243.85:9001
+⚠️ E :  
+ ######### 
+
+http://60.71.174.176:16800
+⚠️ E :  
+ ######### 
+
+http://138.2.63.38:3000
+⚠️ E :  Cannot connect to host 138.2.63.38:3000 ssl:default [Connect call failed ('138.2.63.38', 3000)]
+ ######### 
+
+http://211.101.236.233:888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://211.101.236.233:888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.24.176:5492
+⚠️ E :  Cannot connect to host 34.127.24.176:5492 ssl:default [Connect call failed ('34.127.24.176', 5492)]
+ ######### 
+
+http://43.154.41.235:8888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://43.154.41.235:8888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.105.122.120:8011
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://34.105.122.120:8011/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.193.89:7902
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/plain; charset=utf-8', url=URL('http://34.83.193.89:7902/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://121.40.122.42:3002
+⚠️ E :  
+ ######### 
+
+http://161.97.164.91:9099
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html;charset=utf-8', url=URL('http://161.97.164.91:9099/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.65.195:5503
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.83.65.195:5503/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://23.224.131.80:8810
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://23.224.131.80:8810/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.24.176:7004
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.127.24.176:7004/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://150.109.253.62:443
+⚠️ E :  Cannot connect to host 150.109.253.62:443 ssl:default [Connect call failed ('150.109.253.62', 443)]
+ ######### 
+
+http://47.88.17.24:443
+⚠️ E :  Cannot connect to host 47.88.17.24:443 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: IP address mismatch, certificate is not valid for '47.88.17.24'. (_ssl.c:1007)")]
+ ######### 
+
+http://34.105.122.120:7004
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.105.122.120:7004/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://47.254.24.47:3001
+⚠️ E :  
+ ######### 
+
+http://124.71.172.39:9201
+⚠️ E :  'result'
+ ######### 
+
+http://45.195.198.253:443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://45.195.198.253:443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://110.80.25.251:7443
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://110.80.25.251:7443/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.83.193.89:7335
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://34.83.193.89:7335/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://49.235.42.54:8085
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: ', url=URL('http://49.235.42.54:8085/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://34.127.33.229:8013
+⚠️ E :  Cannot connect to host 34.127.33.229:8013 ssl:default [Connect call failed ('34.127.33.229', 8013)]
+ ######### 
+
+http://35.197.103.96:7081
+⚠️ E :  [Errno 104] Connection reset by peer
+ ######### 
+
+http://118.26.36.240:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://118.26.36.240:80/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://43.129.26.183:888
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://43.129.26.183:888/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://119.28.3.204:8883
+⚠️ E :  'result'
+ ######### 
+
+http://34.127.51.25:5796
+⚠️ E :  Cannot connect to host 34.127.51.25:5796 ssl:default [Connect call failed ('34.127.51.25', 5796)]
+ ######### 
+
+http://121.196.96.122:99
+⚠️ E :  
+ ######### 
+
+http://119.45.93.31:3000
+⚠️ E :  'result'
+ ######### 
+
+http://35.247.60.154:7355
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://35.247.60.154:7355/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://120.46.66.243:8084
+⚠️ E :  400, message="Expected HTTP/:\n\n  b'\\x15\\x03\\x03'\n    ^", url=URL('http://120.46.66.243:8084/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://60.168.243.85:5006
+⚠️ E :  
+ ######### 
+
+http://8.219.168.35:3000
+⚠️ E :  
+ ######### 
+
+http://58.23.56.9:8501
+⚠️ E :  'result'
+ ######### 
+
+http://47.99.240.3:888
+⚠️ E :  
+ ######### 
+
+http://35.247.60.154:8003
+⚠️ E :  Cannot connect to host 35.247.60.154:8003 ssl:default [Connect call failed ('35.247.60.154', 8003)]
+ ######### 
+
+http://43.134.241.129:80
+⚠️ E :  Cannot connect to host 43.134.241.129:80 ssl:default [Connect call failed ('43.134.241.129', 80)]
+ ######### 
+
+http://43.154.250.124:80
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://www.lumenghe.com/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://152.32.129.70:2000
+⚠️ E :  
+ ######### 
+
+http://149.88.64.140:3001
+⚠️ E :  
+ ######### 
+
+http://14.155.174.21:8443
+⚠️ E :  
+ ######### 
+
+http://120.78.128.209:10086
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('http://120.78.128.209:10086/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://175.178.222.41:443
+⚠️ E :  Cannot connect to host 175.178.222.41:443 ssl:default [Connect call failed ('175.178.222.41', 443)]
+ ######### 
+
+http://35.197.103.96:6084
+⚠️ E :  Cannot connect to host 35.197.103.96:6084 ssl:default [Connect call failed ('35.197.103.96', 6084)]
+ ######### 
+
+http://159.75.73.147:8077
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://159.75.73.147:8077/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://112.48.31.43:8080
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://112.48.31.43:8080/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://115.233.213.22:9801
+⚠️ E :  0, message='Attempt to decode JSON with unexpected mimetype: text/html', url=URL('http://115.233.213.22:9801/api/midjourney/mj/submit/imagine')
+ ######### 
+
+http://47.254.79.127:943
+⚠️ E :  Server disconnected
+ ######### 
+
+http://121.196.96.122:5601
+⚠️ E :  Cannot connect to host 121.196.96.122:5601 ssl:default [Connect call failed ('121.196.96.122', 5601)]
+ ######### 
+

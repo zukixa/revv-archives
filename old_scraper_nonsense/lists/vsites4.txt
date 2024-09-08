@@ -1,0 +1,2 @@
+chatgpt-vercel-one-lyart.vercel.app
+chatgpt-vercel-gold.vercel.app
