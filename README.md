@@ -6,5 +6,4 @@ Random things will be present here, they are not in any way useful directly to m
 
 README.md's may occasionally be present to explain some things that have been done.
 
-notable coauthors to some of these projects include:
-@
+notable additional repository: [https://github.com/zukixa/the-v0-to-zukigm](https://github.com/zukixa/the-v0-to-zukigm)
